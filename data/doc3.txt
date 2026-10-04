@@ -1,0 +1,2 @@
+JavaScript arrays are data structures that allow developers
+to store multiple values in a single variable.

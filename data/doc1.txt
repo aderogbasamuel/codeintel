@@ -1,0 +1,2 @@
+JavaScript is a programming language used to build interactive websites.
+JavaScript can also be used on servers with Node.js.
